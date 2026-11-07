@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+:root {
+  background: #08090c;
+  color: white;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  background: #08090c;
+} 

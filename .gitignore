@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+.git
+**/node_modules
+**/vendor
+**/.next
+**/coverage
+**/.DS_Store
+**/Thumbs.db
